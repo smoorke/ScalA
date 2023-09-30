@@ -9,6 +9,6 @@ System requirements:
 
 Dual Core Cpu or better 
 
-250 MB Ram + ~250 MB per client
+50 MB Ram + up to ~250 MB per client
 
 Windows Vista or later
