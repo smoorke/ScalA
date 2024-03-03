@@ -11,4 +11,4 @@ Dual Core Cpu or better
 
 50 MB Ram + up to ~250 MB per client
 
-Windows Vista or later
+.Net Framework 4.7.2 (Not supported on Windows 8, Upgrade to windows 8.1 or install Windows 7 with SP1)
