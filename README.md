@@ -3,7 +3,9 @@ Astonia Window Scaler and Shortcut Manager
 
 [Download latest ScalA](https://github.com/smoorke/ScalA/releases/download/ScalA/ScalA.exe)
 
+![Example Screenshot](https://github.com/smoorke/ScalA/blob/main/scala.png?raw=true)
 
+Source Code available at [ScalA_Dev](https://github.com/smoorke/ScalA_Dev)
 
 System requirements: 
 
